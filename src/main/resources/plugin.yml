@@ -1,0 +1,5 @@
+name: Pads
+version: '${version}'
+main: dev.toast.Pads
+api-version: '1.20'
+authors: [Toast]
